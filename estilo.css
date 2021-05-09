@@ -44,3 +44,23 @@ body{
 
 
 }
+
+img{
+    width: 100px;
+
+
+
+
+}
+
+#jogada{
+    border: 1.5px;
+    border-color: rgba(39, 90, 114, 0.363);
+    border-style: solid;
+    width: 480px;
+    margin-top: 150px;
+    background-color: cornflowerblue;
+
+
+
+}
